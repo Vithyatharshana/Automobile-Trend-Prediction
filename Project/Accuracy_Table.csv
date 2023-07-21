@@ -1,0 +1,9 @@
+﻿Classifier,Accuracy
+"k-NN 
+(k=3)",0.9023
+MLP,0.8129
+"SVM 
+(lin_pol_rbf)",0.8717
+SVM (Sig),0.6992
+D_Tree,0.8982
+NB,0.5332
